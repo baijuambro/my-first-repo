@@ -13,7 +13,7 @@ int isPrime(int num) {
 }
 
 int main() {
-    int arr[] = {3, 4, 7, 11, 15, 17, 20, 23};
+    int arr[] = {3, 4, 7, 11, 15, 17, 20, 23,45,89};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     printf("Prime numbers in the array are:\n");
